@@ -14,8 +14,6 @@
 
 I'm a hobbyist developer from Egypt 🇪🇬. I build programs and websites that real people actually use: a full point-of-sale system for a barber shop, tools that run my own cybercafe, game utilities and landing pages.
 
-بكتب Python في الغالب، ومعايا شوية HTML للويب. بحب أعمل حاجات ناس حقيقية بتستخدمها كل يوم، مش مجرد كود واقف.
-
 ---
 
 ## 🚀 Featured projects
@@ -27,15 +25,14 @@ I'm a hobbyist developer from Egypt 🇪🇬. I build programs and websites that
 | [NinjaModSkin](https://github.com/ninjadiscord40-jpg/NinjaModSkin) | Python / ADB desktop app with an Arabic UI. |
 | [pubg-controller](https://github.com/ninjadiscord40-jpg/pubg-controller) | PUBG GameLoop resolution controller. |
 | [discord](https://github.com/ninjadiscord40-jpg/discord) | A music bot built with discord.py. |
-| [conquer-launch](https://github.com/ninjadiscord40-jpg/conquer-launch) | Landing page for a game server (HTML). |
 
 ## 🌐 My websites
 
 | Site | What it is |
 |---|---|
-| [Cyber ElKazm](https://elkazm.gamer.gd/) | موقع سايبر القزم ☕ |
-| [BucyPlayer](https://bucyplayer.gamer.gd/) | موقع BucyPlayer |
-| [Ninja Mod Skin](https://modskin.gamer.gd/) | صفحة المود سكين |
+| [Cyber ElKazm](https://elkazm.gamer.gd/) | موقع سايبر القزم  |
+| [BucyPlayer](https://bucyplayer.gamer.gd/) |  BucyPlayer |
+| [Ninja Mod Skin](https://modskin.gamer.gd/) | Mod Skin |
 
 ---
 
