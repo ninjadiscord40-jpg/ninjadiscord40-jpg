@@ -50,8 +50,16 @@ More on my [repositories page](https://github.com/ninjadiscord40-jpg?tab=reposit
 
 ## Contact me | تواصل معي
 
-- 📧 Email: `YOUR_EMAIL_HERE`
-- 💬 Discord: `YOUR_DISCORD_HERE`
-- 📱 WhatsApp / Telegram: `YOUR_NUMBER_OR_LINK_HERE`
+<p>
+  <a href="https://wa.me/201101270849"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="https://discord.gg/9pRMHPcnGB"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://www.tiktok.com/@ninjaar.joo"><img src="https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+  <a href="mailto:youssefmoneer18@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</p>
+
+- 📱 WhatsApp (the fastest way): [wa.me/201101270849](https://wa.me/201101270849)
+- 💬 Discord: `ninja_joo` - my server: [discord.gg/9pRMHPcnGB](https://discord.gg/9pRMHPcnGB)
+- 🎵 TikTok: [@ninjaar.joo](https://www.tiktok.com/@ninjaar.joo)
+- 📧 Email: `youssefmoneer18@gmail.com`
 
 If you need a program or a website, send me a message. ✌️
