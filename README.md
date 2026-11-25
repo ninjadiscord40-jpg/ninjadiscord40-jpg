@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7C948&center=true&vCenter=true&width=700&lines=%F0%9F%8F%86+Challenger+in+Wild+Rift;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+I+build+tools+people+actually+use;%F0%9F%8E%AE+Pro+player+%7C+Content+Creator;%E2%98%95+%D8%A3%D9%87%D9%84%D8%A7%D9%8B+%D8%A8%D9%8A%D9%83+%D9%81%D9%8A+%D8%A7%D9%84%D8%A8%D8%B1%D9%88%D9%81%D8%A7%D9%8A%D9%84+%D8%A8%D8%AA%D8%A7%D8%B9%D9%8A" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7C948&center=true&vCenter=true&width=700&lines=%F0%9F%8F%86+Challenger+in+Wild+Rift;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+I+build+tools+people+actually+use;%F0%9F%8E%AE+Pro+player+%7C+Content+Creator;%E2%98%95+Welcome+to+my+profile" alt="typing" />
 </p>
 
 <p align="center">
@@ -79,7 +79,7 @@ I build programs and websites that real people actually use every day: a full po
   <tr>
     <td width="50%" valign="top">
       <h3>🎨 <a href="https://github.com/ninjadiscord40-jpg/NinjaModSkin">NinjaModSkin</a></h3>
-      Desktop app with a full Arabic UI.<br/><br/>
+      Unlocks all PUBG skins in one click. Desktop app with a full Arabic UI.<br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/ADB-3DDC84?style=flat-square&logo=android&logoColor=white" />
     </td>
@@ -102,7 +102,7 @@ I build programs and websites that real people actually use every day: a full po
 ## 🌐 My websites
 
 <p align="center">
-  <a href="https://elkazm.gamer.gd/"><img src="https://img.shields.io/badge/Cyber%20ElKazm-%D9%85%D9%88%D9%82%D8%B9%20%D8%B3%D8%A7%D9%8A%D8%A8%D8%B1%20%D8%A7%D9%84%D9%82%D8%B2%D9%85-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://elkazm.gamer.gd/"><img src="https://img.shields.io/badge/Cyber%20ElKazm-Cybercafe%20website-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://bucyplayer.gamer.gd/"><img src="https://img.shields.io/badge/BucyPlayer-ec4899?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://modskin.gamer.gd/"><img src="https://img.shields.io/badge/Ninja%20Mod%20Skin-f59e0b?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
