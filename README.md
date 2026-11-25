@@ -1,71 +1,57 @@
-<div align="center">
+<h1 align="center">Hi, I'm Ninja 👋 <br><sub>أهلاً بيك في البروفايل بتاعي</sub></h1>
 
-# 👋 Hi, I'm Ninja
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ninjadiscord40-jpg&label=Profile%20views&color=blue&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/ninjadiscord40-jpg?style=flat&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2DBA4E&center=true&vCenter=true&width=520&lines=Web+Designer+%26+Developer;I+build+websites+and+Python+apps;Based+in+Egypt+%F0%9F%87%AA%F0%9F%87%AC" alt="Typing SVG" />
+## About me
 
-**أنا نينجا، بصمم مواقع وبعمل برامج بلغة Python** 🥷
+I'm a hobbyist developer from Egypt 🇪🇬. I build programs and websites that real people actually use: a shop system for a barber, an app with an Arabic interface, a music bot, and landing pages for game servers.
 
-</div>
+I mostly write **Python**, with some **HTML** for the web side.
 
----
+## Gaming 🎮
 
-## 🚀 About Me
+Pro player in:
 
-- 🌐 I love building **websites**, that's what I enjoy the most
-- 🐍 I also build desktop apps with **Python** (PySide6, tkinter) and **SQLite**
-- 🔗 I design link-in-bio style pages for streamers
-- 🇪🇬 From Egypt
+<p>
+  <img src="https://img.shields.io/badge/Valorant-FA4454?style=flat&logo=valorant&logoColor=white" alt="Valorant" />
+  <img src="https://img.shields.io/badge/Counter--Strike%202-DE9B35?style=flat&logo=counterstrike&logoColor=white" alt="Counter-Strike 2" />
+  <img src="https://img.shields.io/badge/League%20of%20Legends-C28F2C?style=flat&logo=leagueoflegends&logoColor=white" alt="League of Legends" />
+  <img src="https://img.shields.io/badge/Wild%20Rift-005A82?style=flat&logo=riotgames&logoColor=white" alt="Wild Rift" />
+</p>
 
----
+## Featured projects
 
-## 🛠️ Tech Stack
+| Project | What it is |
+| --- | --- |
+| [**BarberSystemUpdate**](https://github.com/ninjadiscord40-jpg/BarberSystemUpdate) | Python point-of-sale system for a barber shop: cashier, shifts, reports, printer, email and login. |
+| [**NinjaModSkin**](https://github.com/ninjadiscord40-jpg/NinjaModSkin) | Python / ADB desktop app with an Arabic UI. |
+| [**discord**](https://github.com/ninjadiscord40-jpg/discord) | A music bot built with `discord.py`. |
+| [**conquer-launch**](https://github.com/ninjadiscord40-jpg/conquer-launch) | Landing page for a game server (HTML). |
+| [**pubg-controller**](https://github.com/ninjadiscord40-jpg/pubg-controller) | PUBG GameLoop resolution controller. |
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Qt](https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+More on my [repositories page](https://github.com/ninjadiscord40-jpg?tab=repositories).
 
----
+## What I'm working on now
 
-## 🌟 Featured Work
+- Improving **NinjaModSkin** and **BarberSystemUpdate**
+- <!-- EDIT: add anything else you're building right now -->
 
-| Project | Description | Link |
-|---|---|---|
-| 🌐 **Elkazm** (ساسيبر القزم) | Website | [elkazm.gamer.gd](https://elkazm.gamer.gd/) |
-| 🎵 **Bucy Player** | Website | [bucyplayer.gamer.gd](https://bucyplayer.gamer.gd/) |
-| 🎮 **ModSkin for PUBG** | Windows app + website | [modskin.gamer.gd](https://modskin.gamer.gd/) |
+## Stats
 
----
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ninjadiscord40-jpg&show_icons=true&hide_border=true" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninjadiscord40-jpg&layout=compact&hide_border=true" alt="Top languages" />
+</p>
 
-## 📂 Open Source Repos
+## Contact me | تواصل معي
 
-- [**BarberSystemUpdate**](https://github.com/ninjadiscord40-jpg/BarberSystemUpdate) — Python
-- [**pubg-controller**](https://github.com/ninjadiscord40-jpg/pubg-controller) — PUBG GameLoop resolution controller
-- [**conquer-launch**](https://github.com/ninjadiscord40-jpg/conquer-launch) — HTML
-- [**uchiha_conqer**](https://github.com/ninjadiscord40-jpg/uchiha_conqer) — CSS
-- [**nota-update**](https://github.com/ninjadiscord40-jpg/nota-update)
-- [**resolutionsFREE**](https://github.com/ninjadiscord40-jpg/resolutionsFREE)
+- 📧 Email: `YOUR_EMAIL_HERE`
+- 💬 Discord: `YOUR_DISCORD_HERE`
+- 📱 WhatsApp / Telegram: `YOUR_NUMBER_OR_LINK_HERE`
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ninjadiscord40-jpg&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninjadiscord40-jpg&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-</div>
-
----
-
-<div align="center">
-
-⭐ Designed by **Ninja** ⭐
-
-</div>
+If you need a program or a website, send me a message. ✌️
